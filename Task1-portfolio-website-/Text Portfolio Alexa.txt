@@ -1,0 +1,28 @@
+* HOME
+home__social
+https://www.linkedin.com/in/sinchana-m-p-133b8537a
+github.com/sinchanamp1808
+
+
+home__description
+Computer Science student interested in Web development and Machine Learning.<br>I enjoy building useful projects and learning new technologies.
+
+
+* ABOUT
+about__description
+I am a Computer Science student currently learning Web development, Machine Learning and Data Structures. I enjoy building projects that solve real world problems.
+
+* PORTFOLIO
+portfolio__description
+Website projects and academic projects projects built using HTML, CSS and Python.
+
+* PROJECT
+project__description
+If you would like to collaborate or see my work, feel free to contact me.
+
+* FOOTER
+footer__social
+Linkedin : https://www.linkedin.com/in/sinchana-m-p-133b8537a
+GitHub : github.com/sinchanamp1808
+
+
